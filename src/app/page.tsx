@@ -1,9 +1,7 @@
-import InputCard from "@/components/ui/InputCard";
-
 export default function Home() {
   return (
-    <div>
-      <InputCard />
+    <div className="min-h-screen flex justify-center items-center">
+      Hello there.
     </div>
   );
 }
